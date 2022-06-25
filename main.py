@@ -2,7 +2,7 @@
 def DaysOfTheWeek():
     if DaysOfTheWeek=="Monday":
         return 1
-    elif
+    else
         return 0
 
 #main
