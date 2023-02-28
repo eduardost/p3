@@ -27,3 +27,4 @@ print (raizCuadradaEnt(2))
 print (raizCuadradaEnt(9))
 print (raizCuadradaEnt(18))
 print (raizCuadradaEnt(199))
+#debug visual con https://pythontutor.com/visualize.html#mode=edit
